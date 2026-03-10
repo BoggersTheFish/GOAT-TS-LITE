@@ -1,0 +1,5 @@
+attractor_influence_strength: 0.1
+convergence_threshold: 0.85
+decision_collapse_threshold: 0.75
+field_influence_strength: 0.08
+propagation_strength: 0.11

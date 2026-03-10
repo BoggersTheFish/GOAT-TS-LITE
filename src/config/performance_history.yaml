@@ -1,0 +1,12 @@
+convergence_scores:
+- 0.709976858459413
+- 0.7524906536564231
+- 0.6173087721690536
+stability_events:
+- false
+- false
+- false
+tick_counts:
+- 5
+- 5
+- 5

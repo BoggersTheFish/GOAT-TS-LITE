@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / editor
+.idea/
+.vscode/
+.cursor/
+
+# Local config (optional: keep adaptive_config.yaml in repo or ignore)
+# config/adaptive_config.yaml
+# config/performance_history.yaml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+# torch/torchvision/torchaudio: install separately with CPU index (see README)
+# intel-extension-for-pytorch: optional, Linux only (skip on Windows)
+numpy
+pandas
+networkx
+pyyaml
+streamlit
